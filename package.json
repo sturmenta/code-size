@@ -1,6 +1,6 @@
 {
   "name": "code-size",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An easy and quick way to see the number of lines and characters of your code",
   "main": "index.js",
   "scripts": {

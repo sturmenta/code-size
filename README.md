@@ -3,7 +3,7 @@ An easy and quick way to see the number of lines and characters of your code
 
 ## Install
 
-npm i -D code-size
+`npm i -D code-size`
 
 ## Use
 

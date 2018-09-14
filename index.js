@@ -48,6 +48,6 @@ exports = module.exports = path => {
 		});
 
 		Promise.all(qCodeSizeCounted).then(() =>
-			console.log(`\n\n\nYour code-size is about ${numberOfTotalLines} lines and ${numberOfTotalCharacters} characters\n\n\n`));
+			console.log(`\n\n\nYour code-size is ${numberOfTotalLines} lines and ${numberOfTotalCharacters} characters\n\n\n`));
 	});
 };
