@@ -1,0 +1,26 @@
+{
+  "name": "code-size",
+  "version": "1.0.0",
+  "description": "An easy and quick way to see the number of lines and characters of your code",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index path:../MySchool_native/src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sturmenta/code-size.git"
+  },
+  "author": "sturmenta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sturmenta/code-size/issues"
+  },
+  "homepage": "https://github.com/sturmenta/code-size#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "walk": "^2.3.14"
+  }
+}
